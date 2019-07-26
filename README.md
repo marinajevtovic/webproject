@@ -5,8 +5,12 @@ printing data from a database
 chacking database for the users.
 Contains JS validation, PHP validation, JS slideshow
 You need to install XAMPP and import sql database liverpul.sql
-with phpmyadmin:start XAMPP(apache-start MySql-start),
-go into the browser, type localhost, then phpmyadmin-
-new(give name liverpul)-create-import(choose file). Afer that copy folder project to
-xampp/htcdoc, then in browser type localhost/project 
+with phpmyadmin:
+1. Start XAMPP(apache-start MySql-start),
+2. Go into the browser, type localhost, then go phpmyadmin
+3. New(give name liverpul)-create
+4. Import(choose file liverpul.sql from folder project).
+5. Afer that copy folder project to xampp/htcdoc(in Local Disk(C)), 
+6. Then in browser type localhost/project 
 and site will be visiable and ready to use
+
