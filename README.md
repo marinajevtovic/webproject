@@ -4,7 +4,7 @@ change the things on the site, read from database, writing to database,
 printing data from a database 
 chacking database for the users.
 Contains JS validation, PHP validation, JS slideshow
-You need to install XAMPP and import sql database liverpul.sql
+You need to install XAMPP and import sql database liverpul.sql from folder project
 with phpmyadmin:
 1. Start XAMPP(apache-start MySql-start),
 2. Go into the browser, type localhost, then go phpmyadmin
