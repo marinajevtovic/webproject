@@ -10,7 +10,7 @@ with phpmyadmin:
 2. Go into the browser, type localhost, then go phpmyadmin
 3. New(give name liverpul)-create
 4. Import(choose file liverpul.sql from folder Project).
-5. Afer that copy folder Project to xampp/htcdocs(in Local Disk(C)), 
+5. Afer that copy folder Project to xampp/htdocs(in Local Disk(C)), 
 6. Then in browser type localhost/Project 
 and site will be visiable and ready to use
 
