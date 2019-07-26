@@ -1,5 +1,6 @@
 # webproject
 In this project you can see a web app in wich you can log in, log out, registration, 
-change the things on the site, read from the database, write in the database, write on database
-chacking the database for the users.
+change the things on the site, read from database, writing to database,
+printing data from a database 
+chacking database for the users.
 Contains JS validation, PHP validation, JS slideshow
